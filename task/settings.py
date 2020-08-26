@@ -125,7 +125,7 @@ STATICFILES_DIRS = ([
 
 STATIC_URL = '/Static/'
 
-STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'Static')
+STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'staticfiles')
 
 # Email BackEnd
 
