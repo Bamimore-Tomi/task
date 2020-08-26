@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = '-!s^$4wvqf8%zbtza(yhy1$^y3+q)*z%r63+4k6nwid6%iy^nv'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['jangoblog.herokuapp.com']
 
